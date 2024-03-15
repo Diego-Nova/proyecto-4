@@ -45,6 +45,7 @@ const ListPage = () => {
               <input type="text" placeholder="email"></input><br></br>
               <input type="text" placeholder="Fecha"></input><br></br>
               <input type="text" placeholder="Hora"></input><br></br>
+              <input type="text" placeholder="Comentario"></input><br></br>
               <input type="submit" placeholder="enviar"></input>
             </div>
             <ListaUsuarios listaUsuarios={listaUsuarios} />
